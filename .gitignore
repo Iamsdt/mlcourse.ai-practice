@@ -106,3 +106,6 @@ venv.bak/
 # remove catches
 .ipynb_checkpoints/
 
+# idea
+.idea
+
